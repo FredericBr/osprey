@@ -42,6 +42,7 @@ required for full functionality:
 - Optimization
 - Signal Processing
 - Statistics and Machine Learning
+- Curve Fitting Toolbox
 
 ### Installation
 
